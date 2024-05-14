@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Informatic
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: f4
 
 <!---
 poroto1/poroto1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
